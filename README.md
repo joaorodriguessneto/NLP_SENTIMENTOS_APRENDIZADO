@@ -1,4 +1,4 @@
-![Imagem inicial](/content/IMG/analise_de_sentimento_img.png)
+![Imagem inicial](https://github.com/joaorodriguessneto/NLP_SENTIMENTOS_APRENDIZADO/blob/main/IMG/analise_de_sentimento_img.png)
 # 📊 Processamento de Linguagem Natural | Análise de Sentimentos.
 #### ______________________________________________________________________________________________________________________
 ## 🔍 Objetivo do projeto:
@@ -20,19 +20,19 @@ Essas etapas têm como objetivo reduzir ruídos, melhorar a qualidade dos dados 
 
 # 🌩️ Nuvem de Palavra Negativa
 
-![gráfico de barras](h/content/IMG/nuvem_de_palavra_negativa.png)
+![gráfico de barras](https://github.com/joaorodriguessneto/NLP_SENTIMENTOS_APRENDIZADO/blob/main/IMG/nuvem_de_palavra_negativa.png)
 
 #### A imagem acima demonstra uma série de palavras distribuidas em que foram destacadas em avaliações negativas. A frequência da palavra é diretamente proporcional ao tamanho da imagem acima.
 
 # ☁️ Nuvem de Palavra Negativa
 
-![gráfico de barras](/content/IMG/nuvem_de_palavra_positiva.png)
+![gráfico de barras](https://github.com/joaorodriguessneto/NLP_SENTIMENTOS_APRENDIZADO/blob/main/IMG/nuvem_de_palavra_positiva.png)
 
 #### A imagem acima demonstra uma série de palavras distribuidas em que foram destacadas em avaliações positivas. A frequência da palavra é diretamente proporcional ao tamanho da imagem acima.
 
 # 🛠️ Tratamento do texto
 
-![gráfico de barras](/content/IMG/tratamentos.png)
+![gráfico de barras]([/content/IMG/tratamentos.png](https://github.com/joaorodriguessneto/NLP_SENTIMENTOS_APRENDIZADO/blob/main/IMG/tratamentos.png))
 
 ### A imagem acima demontra os tratamentos realizados antes de aplicar o modelo.
 
@@ -48,7 +48,7 @@ Essas etapas têm como objetivo reduzir ruídos, melhorar a qualidade dos dados 
 
 # 🛠️ Previsão dos Sentimentos
 
-![gráfico de barras](/content/IMG/previsao_sentimento.png)
+![gráfico de barras](https://github.com/joaorodriguessneto/NLP_SENTIMENTOS_APRENDIZADO/blob/main/IMG/previsao_sentimento.png)
 
 #### A imagem acima demonstra o modelo prevendo a avaliação de futuros comentários dos produtos por clientes.
 
