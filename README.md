@@ -24,7 +24,7 @@ Essas etapas têm como objetivo reduzir ruídos, melhorar a qualidade dos dados 
 
 #### A imagem acima demonstra uma série de palavras distribuidas em que foram destacadas em avaliações negativas. A frequência da palavra é diretamente proporcional ao tamanho da imagem acima.
 
-# ☁️ Nuvem de Palavra Negativa
+# ☁️ Nuvem de Palavra Positiva
 
 ![gráfico de barras](https://github.com/joaorodriguessneto/NLP_SENTIMENTOS_APRENDIZADO/blob/main/IMG/nuvem_de_palavra_positiva.png)
 
